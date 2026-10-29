@@ -1,8 +1,9 @@
+
 streamlit
 opencv-python-headless
 pytesseract
 numpy
 Pillow
-PyMuPDF
+pdf2image
 deep-translator
 reportlab

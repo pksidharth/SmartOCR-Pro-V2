@@ -1,5 +1,7 @@
+
 __pycache__/
 *.pyc
-
+.venv/
+backup/
 ocr_output.pdf
 translated_output.pdf

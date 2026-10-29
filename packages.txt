@@ -1,1 +1,7 @@
+
 tesseract-ocr
+tesseract-ocr-hin
+tesseract-ocr-mal
+tesseract-ocr-kan
+tesseract-ocr-tam
+poppler-utils
