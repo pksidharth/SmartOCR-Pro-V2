@@ -2,6 +2,11 @@
 
 A web-based document recognition and processing system built with Python that extracts text from images and scanned PDFs, supports keyword search, and provides text export options.
 
+## Live Demo
+
+Try SmartOCR Pro here: https://smartocr-pro-v2-xz6swrd5txbp6c6d2nuew4.streamlit.app/
+
+
 ## Features
 
 - **Image OCR:** Extract text from uploaded images using Tesseract OCR and OpenCV.
@@ -140,3 +145,5 @@ Coming soon.
 
 ### Project Information
 ![Project Information](screenshots/PROJECT%20INFO.png)
+
+
